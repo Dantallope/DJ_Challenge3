@@ -15,7 +15,7 @@ function generatePassword(length) {
   let qUpper = prompt("Uppercase characters? Y/N");
   let qLower = prompt("Lowercase characters? Y/N");
   let qNum = prompt('Numbers? Y/N');
-  let qSym = prompt('Sybmols? Y/n');
+  let qSym = prompt('Sybmols? Y/N');
   if (qUpper == 'Y') {
    characters = characters + upperls;
   }
