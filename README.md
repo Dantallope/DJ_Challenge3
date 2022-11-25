@@ -7,3 +7,5 @@ The Criteria includes
 * Whether or not the user would like symbols
 * Whether or not the user would like lower case Letters
 * Whether or not the user would like numbers
+## ScreenShot
+![Screenshot of website](/sitScreenShot.png)
